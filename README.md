@@ -94,12 +94,12 @@
 <p>
     <img src="linkedin.png" alt="LinkedIn logo" width="10">
         LinkedIn:
-        <a href="https://www.linkedin.com/in/- giuliana-godail-fabrizio-20639525b/">giuliana-godail-fabrizio</a>
+        <a href="https://www.linkedin.com/in/giuliana-godail-fabrizio-20639525b/">giuliana-godail-fabrizio</a>
 <p>
 <p>
     <img src="email.png" alt="Mail logo" width="10">
         Mail:
-        <a href="godailfabriziogiuliana@gmail.com">godailfabriziogiuliana@gmail.com</a>
+        <a href="mailto:godailfabriziogiuliana@gmail.com">godailfabriziogiuliana@gmail.com</a>
 <p>
 <p>
     <img src="portfolio.png" alt="Portfolio logo" width="10">
